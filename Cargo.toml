@@ -1,0 +1,10 @@
+[package]
+name = "cargo-creepy"
+version = "0.1.0"
+edition = "2021"
+description = "is it halloween yet?"
+license-file = "LICENSE"
+documentation = ""
+repository = "https://github.com/amanjeev/cargo-creepy"
+
+[dependencies]
