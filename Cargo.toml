@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "is it halloween yet?"
 license-file = "LICENSE"
-documentation = ""
+documentation = "https://github.com/amanjeev/cargo-creepy"
 repository = "https://github.com/amanjeev/cargo-creepy"
 
 [dependencies]
