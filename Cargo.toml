@@ -8,3 +8,4 @@ documentation = "https://github.com/amanjeev/cargo-creepy"
 repository = "https://github.com/amanjeev/cargo-creepy"
 
 [dependencies]
+owo-colors = "4.1.0"
